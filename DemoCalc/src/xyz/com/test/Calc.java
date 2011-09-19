@@ -1,3 +1,4 @@
+package xyz.com.test;
 public class Calc {
 
 	/** @return the sum of a and b */
