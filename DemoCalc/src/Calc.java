@@ -10,5 +10,10 @@ public class Calc {
 		return a-b;
 	}
 	
+	/** @return a*b */
+	public double mult(int a, int b) {
+		return a*b;
+	}
+	
 }
 
