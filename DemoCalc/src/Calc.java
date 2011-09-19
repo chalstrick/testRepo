@@ -1,7 +1,7 @@
 public class Calc {
 
 	/** @return the sum of a and b */
-	public int add(int a, int b) {
+	public double add(double a, double b) {
 		return a+b;
 	}
 
