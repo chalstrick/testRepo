@@ -5,5 +5,10 @@ public class Calc {
 		return a+b;
 	}
 
+	/** @return pi */
+	public double pi() {
+		return java.lang.Math.PI;
+	}
+	
 }
 
